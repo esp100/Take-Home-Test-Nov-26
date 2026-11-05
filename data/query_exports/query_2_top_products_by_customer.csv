@@ -1,0 +1,601 @@
+﻿customer_id,customer_name,ranking,product_name,category,customer_product_total,pct_cliente
+C0001,Distribuidora Premier 1,1,Creamer Avellana,Creamer,11842.32,11.752241
+C0001,Distribuidora Premier 1,2,Otros Requeson,Otros,9350.52,9.279395
+C0001,Distribuidora Premier 1,3,Creamer Coco,Creamer,7815.04,7.755595
+C0002,Distribuidora Unidos 2,1,Creamer Avellana,Creamer,14647.08,7.855053
+C0002,Distribuidora Unidos 2,2,Creamer Vainilla,Creamer,13659.50,7.325425
+C0002,Distribuidora Unidos 2,3,Otros Queso Cottage,Otros,12637.28,6.777221
+C0003,Distribuidora Mexicana 3,1,Creamer Natural,Creamer,20927.51,27.963793
+C0003,Distribuidora Mexicana 3,2,Creamer Vainilla,Creamer,6917.89,9.243835
+C0003,Distribuidora Mexicana 3,3,Creamer Avellana,Creamer,4570.72,6.107495
+C0004,Distribuidora Del Valle 4,1,Queso Crema Cebollin,Queso Crema,13365.25,8.469802
+C0004,Distribuidora Del Valle 4,2,Creamer Avellana,Creamer,12974.61,8.222247
+C0004,Distribuidora Del Valle 4,3,Otros Mantequilla,Otros,8992.54,5.698736
+C0005,Distribuidora Central 5,1,Otros Queso Panela,Otros,16495.12,11.183154
+C0005,Distribuidora Central 5,2,Queso Crema Light,Queso Crema,11949.08,8.101087
+C0005,Distribuidora Central 5,3,Yogurt Alto Proteina Fresa,Yogurt Alto Proteina,9939.62,6.738739
+C0006,Distribuidora Sol 6,1,Creamer Avellana,Creamer,13525.18,16.957379
+C0006,Distribuidora Sol 6,2,Otros Kefir,Otros,10864.61,13.621653
+C0006,Distribuidora Sol 6,3,Queso Crema Ajo,Queso Crema,7881.75,9.881852
+C0007,Distribuidora Norteña 7,1,Leche de Avena Original,Leche de Avena,13274.82,10.759283
+C0007,Distribuidora Norteña 7,2,Creamer Vainilla,Creamer,9839.96,7.975318
+C0007,Distribuidora Norteña 7,3,Creamer Caramelo,Creamer,9128.64,7.398791
+C0008,Distribuidora La Paz 8,1,Otros Requeson,Otros,14851.51,10.540306
+C0008,Distribuidora La Paz 8,2,Otros Mantequilla,Otros,13548.50,9.615544
+C0008,Distribuidora La Paz 8,3,Creamer Avellana,Creamer,12094.23,8.583430
+C0009,Distribuidora Costa 9,1,Creamer Natural,Creamer,12325.72,7.978462
+C0009,Distribuidora Costa 9,2,Creamer Caramelo,Creamer,10111.85,6.545420
+C0009,Distribuidora Costa 9,3,Otros Queso Cottage,Otros,9657.03,6.251014
+C0010,Distribuidora Central 10,1,Otros Queso Cottage,Otros,12818.11,9.510383
+C0010,Distribuidora Central 10,2,Leche de Avena Original,Leche de Avena,10827.68,8.033585
+C0010,Distribuidora Central 10,3,Leche de Avena Barista,Leche de Avena,9389.47,6.966507
+C0011,Distribuidora Norteña 11,1,Queso Crema Original,Queso Crema,8234.50,9.121657
+C0011,Distribuidora Norteña 11,2,Leche de Avena Sin Azucar,Leche de Avena,6503.42,7.204076
+C0011,Distribuidora Norteña 11,3,Queso Crema Light,Queso Crema,5484.49,6.075370
+C0012,Distribuidora La Paz 12,1,Otros Requeson,Otros,13297.74,9.059861
+C0012,Distribuidora La Paz 12,2,Otros Queso Panela,Otros,10177.84,6.934247
+C0012,Distribuidora La Paz 12,3,Creamer Caramelo,Creamer,9623.37,6.556482
+C0013,Distribuidora Costa 13,1,Yogurt Alto Proteina Fresa,Yogurt Alto Proteina,10779.15,8.357753
+C0013,Distribuidora Costa 13,2,Yogurt Griego Mango,Yogurt Griego,6671.26,5.172648
+C0013,Distribuidora Costa 13,3,Queso Crema Cebollin,Queso Crema,6630.98,5.141416
+C0014,Distribuidora Costa 14,1,Otros Queso Cottage,Otros,10838.33,9.228205
+C0014,Distribuidora Costa 14,2,Creamer Vainilla,Creamer,9695.73,8.255348
+C0014,Distribuidora Costa 14,3,Otros Mantequilla,Otros,7520.31,6.403105
+C0015,Distribuidora Costa 15,1,Otros Mantequilla,Otros,11017.85,9.489073
+C0015,Distribuidora Costa 15,2,Creamer Caramelo,Creamer,8642.25,7.443098
+C0015,Distribuidora Costa 15,3,Yogurt Griego Fresa,Yogurt Griego,7830.77,6.744215
+C0016,Distribuidora Mexicana 16,1,Creamer Coco,Creamer,12713.17,9.118320
+C0016,Distribuidora Mexicana 16,2,Queso Crema Original,Queso Crema,12102.80,8.680542
+C0016,Distribuidora Mexicana 16,3,Creamer Natural,Creamer,9624.65,6.903128
+C0017,Distribuidora Alianza 17,1,Yogurt Alto Proteina Natural,Yogurt Alto Proteina,11629.07,8.214384
+C0017,Distribuidora Alianza 17,2,Creamer Avellana,Creamer,10632.12,7.510172
+C0017,Distribuidora Alianza 17,3,Otros Requeson,Otros,9969.24,7.041936
+C0018,Distribuidora Alianza 18,1,Creamer Avellana,Creamer,13296.64,8.213240
+C0018,Distribuidora Alianza 18,2,Leche de Avena Barista,Leche de Avena,13168.58,8.134138
+C0018,Distribuidora Alianza 18,3,Yogurt Alto Proteina Vainilla,Yogurt Alto Proteina,9972.68,6.160053
+C0019,Distribuidora Premier 19,1,Creamer Canela,Creamer,9281.63,15.400640
+C0019,Distribuidora Premier 19,2,Otros Requeson,Otros,7975.86,13.234028
+C0019,Distribuidora Premier 19,3,Leche de Avena Chocolate,Leche de Avena,7192.56,11.934329
+C0020,Distribuidora Premier 20,1,Creamer Caramelo,Creamer,12844.39,11.452200
+C0020,Distribuidora Premier 20,2,Creamer Coco,Creamer,9223.37,8.223658
+C0020,Distribuidora Premier 20,3,Otros Requeson,Otros,9164.44,8.171116
+C0021,Distribuidora Costa 21,1,Leche de Avena Sin Azucar,Leche de Avena,11478.11,7.764224
+C0021,Distribuidora Costa 21,2,Otros Requeson,Otros,8892.29,6.015079
+C0021,Distribuidora Costa 21,3,Otros Mantequilla,Otros,8638.40,5.843338
+C0022,Distribuidora Mexicana 22,1,Creamer Vainilla,Creamer,5021.48,12.085118
+C0022,Distribuidora Mexicana 22,2,Leche de Avena Sin Azucar,Leche de Avena,4687.53,11.281405
+C0022,Distribuidora Mexicana 22,3,Otros Requeson,Otros,4684.56,11.274258
+C0023,Distribuidora Del Valle 23,1,Creamer Avellana,Creamer,17779.06,12.762637
+C0023,Distribuidora Del Valle 23,2,Creamer Vainilla,Creamer,11402.50,8.185245
+C0023,Distribuidora Del Valle 23,3,Leche de Avena Barista,Leche de Avena,9772.44,7.015112
+C0024,Distribuidora Mexicana 24,1,Leche de Avena Chocolate,Leche de Avena,15029.12,9.136182
+C0024,Distribuidora Mexicana 24,2,Otros Queso Panela,Otros,10581.44,6.432443
+C0024,Distribuidora Mexicana 24,3,Creamer Caramelo,Creamer,10132.73,6.159673
+C0025,Distribuidora Del Valle 25,1,Yogurt Alto Proteina Fresa,Yogurt Alto Proteina,8456.64,10.142567
+C0025,Distribuidora Del Valle 25,2,Leche de Avena Chocolate,Leche de Avena,7065.60,8.474207
+C0025,Distribuidora Del Valle 25,3,Leche de Avena Barista,Leche de Avena,5414.46,6.493894
+C0026,Distribuidora Costa 26,1,Otros Crema Acida,Otros,11458.82,6.985098
+C0026,Distribuidora Costa 26,2,Creamer Vainilla,Creamer,11418.53,6.960538
+C0026,Distribuidora Costa 26,3,Creamer Caramelo,Creamer,9765.32,5.952769
+C0027,Distribuidora Alianza 27,1,Creamer Coco,Creamer,12488.78,9.897194
+C0027,Distribuidora Alianza 27,2,Yogurt Griego Vainilla,Yogurt Griego,8557.02,6.781326
+C0027,Distribuidora Alianza 27,3,Queso Crema Cebollin,Queso Crema,8176.67,6.479903
+C0028,Distribuidora Unidos 28,1,Creamer Natural,Creamer,17589.08,7.955214
+C0028,Distribuidora Unidos 28,2,Otros Crema Acida,Otros,12637.84,5.715860
+C0028,Distribuidora Unidos 28,3,Queso Crema Original,Queso Crema,11409.57,5.160336
+C0029,Distribuidora Alianza 29,1,Queso Crema Cebollin,Queso Crema,10439.87,6.583142
+C0029,Distribuidora Alianza 29,2,Creamer Coco,Creamer,9855.92,6.214917
+C0029,Distribuidora Alianza 29,3,Otros Queso Panela,Otros,8688.45,5.478737
+C0030,Distribuidora La Paz 30,1,Otros Crema Acida,Otros,8964.01,8.765008
+C0030,Distribuidora La Paz 30,2,Creamer Coco,Creamer,7748.20,7.576189
+C0030,Distribuidora La Paz 30,3,Leche de Avena Barista,Leche de Avena,6587.59,6.441345
+C0031,Distribuidora Sol 31,1,Creamer Vainilla,Creamer,15636.04,8.824854
+C0031,Distribuidora Sol 31,2,Creamer Caramelo,Creamer,13397.58,7.561485
+C0031,Distribuidora Sol 31,3,Leche de Avena Chocolate,Leche de Avena,12423.68,7.011824
+C0032,Distribuidora La Paz 32,1,Creamer Avellana,Creamer,8242.88,9.192049
+C0032,Distribuidora La Paz 32,2,Leche de Avena Original,Leche de Avena,8120.76,9.055867
+C0032,Distribuidora La Paz 32,3,Yogurt Griego Fresa,Yogurt Griego,6550.86,7.305193
+C0033,Distribuidora Costa 33,1,Leche de Avena Original,Leche de Avena,8998.33,8.300767
+C0033,Distribuidora Costa 33,2,Yogurt Alto Proteina Fresa,Yogurt Alto Proteina,7473.10,6.893775
+C0033,Distribuidora Costa 33,3,Otros Crema Acida,Otros,6885.31,6.351551
+C0034,Distribuidora Mexicana 34,1,Creamer Coco,Creamer,10187.72,8.981510
+C0034,Distribuidora Mexicana 34,2,Leche de Avena Sin Azucar,Leche de Avena,8046.93,7.094186
+C0034,Distribuidora Mexicana 34,3,Creamer Vainilla,Creamer,7051.44,6.216560
+C0035,Distribuidora Sol 35,1,Creamer Vainilla,Creamer,19284.61,10.317378
+C0035,Distribuidora Sol 35,2,Leche de Avena Original,Leche de Avena,15224.25,8.145062
+C0035,Distribuidora Sol 35,3,Leche de Avena Barista,Leche de Avena,13699.03,7.329060
+C0036,Distribuidora Mexicana 36,1,Leche de Avena Sin Azucar,Leche de Avena,14284.30,9.725858
+C0036,Distribuidora Mexicana 36,2,Otros Requeson,Otros,11983.55,8.159329
+C0036,Distribuidora Mexicana 36,3,Creamer Natural,Creamer,11295.15,7.690613
+C0037,Distribuidora Premier 37,1,Creamer Caramelo,Creamer,15299.29,7.871938
+C0037,Distribuidora Premier 37,2,Creamer Coco,Creamer,13529.52,6.961339
+C0037,Distribuidora Premier 37,3,Leche de Avena Sin Azucar,Leche de Avena,11731.49,6.036199
+C0038,Distribuidora Premier 38,1,Otros Crema Acida,Otros,12333.45,7.025198
+C0038,Distribuidora Premier 38,2,Queso Crema Light,Queso Crema,10968.98,6.247989
+C0038,Distribuidora Premier 38,3,Otros Mantequilla,Otros,10009.17,5.701276
+C0039,Distribuidora Mexicana 39,1,Otros Kefir,Otros,16700.47,12.401294
+C0039,Distribuidora Mexicana 39,2,Creamer Canela,Creamer,9559.86,7.098880
+C0039,Distribuidora Mexicana 39,3,Creamer Avellana,Creamer,8336.37,6.190351
+C0040,Distribuidora Alianza 40,1,Otros Crema Acida,Otros,18267.07,9.049803
+C0040,Distribuidora Alianza 40,2,Otros Requeson,Otros,12634.84,6.259505
+C0040,Distribuidora Alianza 40,3,Leche de Avena Barista,Leche de Avena,12431.25,6.158643
+C0041,Distribuidora Central 41,1,Leche de Avena Sin Azucar,Leche de Avena,15477.30,7.656051
+C0041,Distribuidora Central 41,2,Creamer Vainilla,Creamer,14046.79,6.948430
+C0041,Distribuidora Central 41,3,Leche de Avena Original,Leche de Avena,12940.83,6.401353
+C0042,Distribuidora Norteña 42,1,Leche de Avena Sin Azucar,Leche de Avena,5981.88,9.005546
+C0042,Distribuidora Norteña 42,2,Queso Crema Cebollin,Queso Crema,5336.14,8.033403
+C0042,Distribuidora Norteña 42,3,Yogurt Alto Proteina Cafe,Yogurt Alto Proteina,5263.52,7.924076
+C0043,Distribuidora Premier 43,1,Otros Mantequilla,Otros,11083.50,8.215006
+C0043,Distribuidora Premier 43,2,Creamer Natural,Creamer,9819.97,7.278487
+C0043,Distribuidora Premier 43,3,Creamer Caramelo,Creamer,9475.16,7.022917
+C0044,Distribuidora Norteña 44,1,Leche de Avena Original,Leche de Avena,16870.23,9.978006
+C0044,Distribuidora Norteña 44,2,Queso Crema Cebollin,Queso Crema,13284.09,7.856961
+C0044,Distribuidora Norteña 44,3,Leche de Avena Sin Azucar,Leche de Avena,11022.03,6.519051
+C0045,Distribuidora Premier 45,1,Leche de Avena Sin Azucar,Leche de Avena,12500.08,9.142771
+C0045,Distribuidora Premier 45,2,Queso Crema Original,Queso Crema,11001.67,8.046808
+C0045,Distribuidora Premier 45,3,Yogurt Alto Proteina Natural,Yogurt Alto Proteina,8253.96,6.037086
+C0046,Distribuidora Del Valle 46,1,Creamer Avellana,Creamer,16641.58,12.719635
+C0046,Distribuidora Del Valle 46,2,Leche de Avena Original,Leche de Avena,15957.73,12.196949
+C0046,Distribuidora Del Valle 46,3,Creamer Vainilla,Creamer,10967.13,8.382490
+C0047,Distribuidora Premier 47,1,Leche de Avena Original,Leche de Avena,9474.22,5.812466
+C0047,Distribuidora Premier 47,2,Leche de Avena Sin Azucar,Leche de Avena,9147.02,5.611728
+C0047,Distribuidora Premier 47,3,Queso Crema Light,Queso Crema,8844.85,5.426345
+C0048,Distribuidora La Paz 48,1,Creamer Caramelo,Creamer,14792.02,9.113580
+C0048,Distribuidora La Paz 48,2,Creamer Vainilla,Creamer,12756.69,7.859584
+C0048,Distribuidora La Paz 48,3,Yogurt Griego Miel,Yogurt Griego,10329.79,6.364335
+C0049,Distribuidora La Paz 49,1,Leche de Avena Barista,Leche de Avena,9068.12,11.521898
+C0049,Distribuidora La Paz 49,2,Creamer Avellana,Creamer,8866.16,11.265289
+C0049,Distribuidora La Paz 49,3,Otros Crema Acida,Otros,7829.30,9.947861
+C0050,Distribuidora Unidos 50,1,Otros Queso Cottage,Otros,15204.19,8.718641
+C0050,Distribuidora Unidos 50,2,Queso Crema Ajo,Queso Crema,11080.95,6.354224
+C0050,Distribuidora Unidos 50,3,Queso Crema Original,Queso Crema,9115.40,5.227105
+C0051,Distribuidora La Paz 51,1,Queso Crema Cebollin,Queso Crema,9406.95,7.911396
+C0051,Distribuidora La Paz 51,2,Creamer Avellana,Creamer,6212.02,5.224409
+C0051,Distribuidora La Paz 51,3,Otros Crema Acida,Otros,5710.15,4.802328
+C0052,Distribuidora Mexicana 52,1,Otros Queso Panela,Otros,8414.27,8.345303
+C0052,Distribuidora Mexicana 52,2,Otros Kefir,Otros,7740.01,7.676569
+C0052,Distribuidora Mexicana 52,3,Leche de Avena Chocolate,Leche de Avena,7470.40,7.409169
+C0053,Distribuidora Sol 53,1,Otros Mantequilla,Otros,10261.84,17.760938
+C0053,Distribuidora Sol 53,2,Otros Crema Acida,Otros,7293.72,12.623789
+C0053,Distribuidora Sol 53,3,Leche de Avena Barista,Leche de Avena,6021.94,10.422624
+C0054,Distribuidora Costa 54,1,Creamer Natural,Creamer,18282.98,9.453520
+C0054,Distribuidora Costa 54,2,Otros Queso Panela,Otros,16356.93,8.457624
+C0054,Distribuidora Costa 54,3,Queso Crema Cebollin,Queso Crema,10958.18,5.666110
+C0055,Distribuidora Unidos 55,1,Otros Queso Panela,Otros,4211.52,9.488040
+C0055,Distribuidora Unidos 55,2,Yogurt Alto Proteina Fresa,Yogurt Alto Proteina,4196.15,9.453414
+C0055,Distribuidora Unidos 55,3,Creamer Caramelo,Creamer,4085.24,9.203547
+C0056,Distribuidora Premier 56,1,Queso Crema Light,Queso Crema,12061.78,9.497115
+C0056,Distribuidora Premier 56,2,Otros Queso Cottage,Otros,9534.91,7.507527
+C0056,Distribuidora Premier 56,3,Creamer Vainilla,Creamer,7783.29,6.128349
+C0057,Distribuidora Costa 57,1,Otros Requeson,Otros,14621.23,8.875699
+C0057,Distribuidora Costa 57,2,Leche de Avena Original,Leche de Avena,12879.70,7.818517
+C0057,Distribuidora Costa 57,3,Creamer Caramelo,Creamer,9740.28,5.912758
+C0058,Distribuidora Norteña 58,1,Creamer Vainilla,Creamer,10684.00,6.626032
+C0058,Distribuidora Norteña 58,2,Otros Queso Panela,Otros,10528.80,6.529780
+C0058,Distribuidora Norteña 58,3,Leche de Avena Original,Leche de Avena,9275.57,5.752548
+C0059,Distribuidora Premier 59,1,Creamer Natural,Creamer,10118.09,9.790587
+C0059,Distribuidora Premier 59,2,Leche de Avena Barista,Leche de Avena,8011.64,7.752319
+C0059,Distribuidora Premier 59,3,Otros Kefir,Otros,7836.00,7.582364
+C0060,Distribuidora Premier 60,1,Creamer Avellana,Creamer,15462.54,11.519765
+C0060,Distribuidora Premier 60,2,Creamer Caramelo,Creamer,9836.30,7.328153
+C0060,Distribuidora Premier 60,3,Otros Crema Acida,Otros,9206.75,6.859131
+C0061,Distribuidora Central 61,1,Creamer Vainilla,Creamer,11004.52,10.005901
+C0061,Distribuidora Central 61,2,Otros Queso Cottage,Otros,10615.22,9.651929
+C0061,Distribuidora Central 61,3,Otros Queso Panela,Otros,10252.42,9.322051
+C0062,Distribuidora Premier 62,1,Creamer Avellana,Creamer,17644.02,11.393857
+C0062,Distribuidora Premier 62,2,Creamer Coco,Creamer,16391.53,10.585045
+C0062,Distribuidora Premier 62,3,Creamer Canela,Creamer,14378.55,9.285137
+C0063,Distribuidora Unidos 63,1,Creamer Canela,Creamer,21274.79,10.090349
+C0063,Distribuidora Unidos 63,2,Otros Mantequilla,Otros,11976.79,5.680432
+C0063,Distribuidora Unidos 63,3,Queso Crema Original,Queso Crema,10842.73,5.142562
+C0064,Distribuidora Norteña 64,1,Creamer Coco,Creamer,17281.88,12.748436
+C0064,Distribuidora Norteña 64,2,Queso Crema Light,Queso Crema,7465.19,5.506895
+C0064,Distribuidora Norteña 64,3,Otros Crema Acida,Otros,7328.40,5.405988
+C0065,Distribuidora Del Valle 65,1,Otros Kefir,Otros,10061.42,8.064349
+C0065,Distribuidora Del Valle 65,2,Creamer Caramelo,Creamer,9310.25,7.462277
+C0065,Distribuidora Del Valle 65,3,Otros Queso Cottage,Otros,8567.33,6.866818
+C0066,Distribuidora Norteña 66,1,Creamer Natural,Creamer,15638.45,8.525794
+C0066,Distribuidora Norteña 66,2,Leche de Avena Original,Leche de Avena,14514.77,7.913185
+C0066,Distribuidora Norteña 66,3,Otros Queso Panela,Otros,10807.37,5.891979
+C0067,Distribuidora Central 67,1,Otros Mantequilla,Otros,18880.36,9.373091
+C0067,Distribuidora Central 67,2,Otros Queso Cottage,Otros,14664.03,7.279908
+C0067,Distribuidora Central 67,3,Otros Queso Panela,Otros,10967.50,5.444778
+C0068,Distribuidora Alianza 68,1,Creamer Vainilla,Creamer,22094.51,14.766833
+C0068,Distribuidora Alianza 68,2,Otros Requeson,Otros,13020.95,8.702532
+C0068,Distribuidora Alianza 68,3,Leche de Avena Barista,Leche de Avena,11988.85,8.012730
+C0069,Distribuidora Del Valle 69,1,Otros Kefir,Otros,14923.66,15.284733
+C0069,Distribuidora Del Valle 69,2,Queso Crema Light,Queso Crema,10134.01,10.379199
+C0069,Distribuidora Del Valle 69,3,Creamer Coco,Creamer,8399.85,8.603081
+C0070,Distribuidora Central 70,1,Otros Requeson,Otros,18535.90,8.721127
+C0070,Distribuidora Central 70,2,Creamer Natural,Creamer,13790.62,6.488476
+C0070,Distribuidora Central 70,3,Leche de Avena Sin Azucar,Leche de Avena,11148.72,5.245464
+C0071,Distribuidora Costa 71,1,Creamer Coco,Creamer,18630.54,11.960353
+C0071,Distribuidora Costa 71,2,Yogurt Alto Proteina Cafe,Yogurt Alto Proteina,13307.58,8.543142
+C0071,Distribuidora Costa 71,3,Otros Queso Cottage,Otros,12188.71,7.824855
+C0072,Distribuidora Central 72,1,Creamer Natural,Creamer,9509.00,9.807424
+C0072,Distribuidora Central 72,2,Creamer Canela,Creamer,8912.19,9.191884
+C0072,Distribuidora Central 72,3,Creamer Vainilla,Creamer,8862.38,9.140511
+C0073,Distribuidora Del Valle 73,1,Otros Requeson,Otros,11592.78,6.712148
+C0073,Distribuidora Del Valle 73,2,Otros Kefir,Otros,10155.45,5.879943
+C0073,Distribuidora Del Valle 73,3,Leche de Avena Sin Azucar,Leche de Avena,9586.21,5.550357
+C0074,Distribuidora Mexicana 74,1,Creamer Coco,Creamer,12164.15,9.272558
+C0074,Distribuidora Mexicana 74,2,Queso Crema Cebollin,Queso Crema,9259.39,7.058301
+C0074,Distribuidora Mexicana 74,3,Otros Crema Acida,Otros,8900.43,6.784671
+C0075,Distribuidora Premier 75,1,Leche de Avena Barista,Leche de Avena,10892.75,8.030234
+C0075,Distribuidora Premier 75,2,Otros Queso Cottage,Otros,10803.10,7.964143
+C0075,Distribuidora Premier 75,3,Creamer Vainilla,Creamer,9198.92,6.781527
+C0076,Distribuidora Central 76,1,Creamer Avellana,Creamer,17267.45,8.960783
+C0076,Distribuidora Central 76,2,Creamer Canela,Creamer,13247.43,6.874631
+C0076,Distribuidora Central 76,3,Otros Queso Cottage,Otros,10976.89,5.696355
+C0077,Distribuidora Central 77,1,Creamer Coco,Creamer,15601.44,7.170878
+C0077,Distribuidora Central 77,2,Creamer Vainilla,Creamer,12446.86,5.720941
+C0077,Distribuidora Central 77,3,Creamer Avellana,Creamer,11455.37,5.265223
+C0078,Distribuidora Mexicana 78,1,Creamer Vainilla,Creamer,13376.37,9.679897
+C0078,Distribuidora Mexicana 78,2,Queso Crema Original,Queso Crema,11633.62,8.418745
+C0078,Distribuidora Mexicana 78,3,Creamer Canela,Creamer,11359.17,8.220137
+C0079,Distribuidora La Paz 79,1,Leche de Avena Original,Leche de Avena,19027.02,10.672018
+C0079,Distribuidora La Paz 79,2,Creamer Avellana,Creamer,12166.94,6.824285
+C0079,Distribuidora La Paz 79,3,Creamer Caramelo,Creamer,10848.74,6.084923
+C0080,Distribuidora Alianza 80,1,Creamer Avellana,Creamer,10338.66,12.380429
+C0080,Distribuidora Alianza 80,2,Creamer Coco,Creamer,8259.02,9.890084
+C0080,Distribuidora Alianza 80,3,Otros Requeson,Otros,8092.16,9.690271
+C0081,Distribuidora Alianza 81,1,Leche de Avena Original,Leche de Avena,14695.96,8.147269
+C0081,Distribuidora Alianza 81,2,Queso Crema Original,Queso Crema,13506.49,7.487841
+C0081,Distribuidora Alianza 81,3,Yogurt Alto Proteina Natural,Yogurt Alto Proteina,12166.89,6.745182
+C0082,Distribuidora Mexicana 82,1,Creamer Natural,Creamer,10089.82,9.178391
+C0082,Distribuidora Mexicana 82,2,Otros Queso Panela,Otros,9660.17,8.787552
+C0082,Distribuidora Mexicana 82,3,Creamer Avellana,Creamer,9351.80,8.507038
+C0083,Distribuidora Mexicana 83,1,Creamer Vainilla,Creamer,16237.01,12.843968
+C0083,Distribuidora Mexicana 83,2,Creamer Canela,Creamer,9320.40,7.372719
+C0083,Distribuidora Mexicana 83,3,Leche de Avena Barista,Leche de Avena,9259.61,7.324633
+C0084,Distribuidora La Paz 84,1,Creamer Natural,Creamer,13060.74,9.723002
+C0084,Distribuidora La Paz 84,2,Otros Crema Acida,Otros,10670.88,7.943883
+C0084,Distribuidora La Paz 84,3,Otros Mantequilla,Otros,8769.72,6.528574
+C0085,Distribuidora Premier 85,1,Otros Mantequilla,Otros,17503.63,14.040857
+C0085,Distribuidora Premier 85,2,Leche de Avena Sin Azucar,Leche de Avena,11030.48,8.848301
+C0085,Distribuidora Premier 85,3,Queso Crema Cebollin,Queso Crema,10856.73,8.708925
+C0086,Distribuidora La Paz 86,1,Leche de Avena Sin Azucar,Leche de Avena,12060.88,13.309067
+C0086,Distribuidora La Paz 86,2,Yogurt Alto Proteina Vainilla,Yogurt Alto Proteina,8317.01,9.177742
+C0086,Distribuidora La Paz 86,3,Creamer Coco,Creamer,6674.05,7.364751
+C0087,Distribuidora Norteña 87,1,Otros Mantequilla,Otros,11499.31,8.672291
+C0087,Distribuidora Norteña 87,2,Creamer Natural,Creamer,8378.20,6.318483
+C0087,Distribuidora Norteña 87,3,Leche de Avena Barista,Leche de Avena,8068.87,6.085199
+C0088,Distribuidora Sol 88,1,Creamer Natural,Creamer,21516.04,10.344583
+C0088,Distribuidora Sol 88,2,Queso Crema Cebollin,Queso Crema,13634.54,6.555278
+C0088,Distribuidora Sol 88,3,Queso Crema Original,Queso Crema,12480.05,6.000217
+C0089,Distribuidora Unidos 89,1,Otros Requeson,Otros,9301.68,6.836309
+C0089,Distribuidora Unidos 89,2,Queso Crema Cebollin,Queso Crema,8569.54,6.298219
+C0089,Distribuidora Unidos 89,3,Otros Mantequilla,Otros,7912.24,5.815134
+C0090,Distribuidora Unidos 90,1,Creamer Vainilla,Creamer,14928.22,10.645464
+C0090,Distribuidora Unidos 90,2,Creamer Natural,Creamer,11981.34,8.544014
+C0090,Distribuidora Unidos 90,3,Otros Queso Cottage,Otros,8581.42,6.119497
+C0091,Distribuidora Sol 91,1,Yogurt Alto Proteina Natural,Yogurt Alto Proteina,6138.34,6.245223
+C0091,Distribuidora Sol 91,2,Yogurt Griego Vainilla,Yogurt Griego,5277.24,5.369129
+C0091,Distribuidora Sol 91,3,Yogurt Bebible Mora,Yogurt Bebible,5166.66,5.256624
+C0092,Distribuidora Sol 92,1,Leche de Avena Chocolate,Leche de Avena,12048.32,8.336145
+C0092,Distribuidora Sol 92,2,Leche de Avena Sin Azucar,Leche de Avena,11642.80,8.055568
+C0092,Distribuidora Sol 92,3,Leche de Avena Original,Leche de Avena,10897.54,7.539928
+C0093,Distribuidora Costa 93,1,Creamer Canela,Creamer,12971.48,9.344166
+C0093,Distribuidora Costa 93,2,Yogurt Alto Proteina Fresa,Yogurt Alto Proteina,9536.70,6.869879
+C0093,Distribuidora Costa 93,3,Yogurt Griego Coco,Yogurt Griego,8994.00,6.478939
+C0094,Distribuidora Norteña 94,1,Otros Mantequilla,Otros,8714.01,7.086401
+C0094,Distribuidora Norteña 94,2,Queso Crema Ajo,Queso Crema,8278.55,6.732276
+C0094,Distribuidora Norteña 94,3,Yogurt Griego Vainilla,Yogurt Griego,8081.08,6.571690
+C0095,Distribuidora Norteña 95,1,Leche de Avena Barista,Leche de Avena,9660.19,10.072962
+C0095,Distribuidora Norteña 95,2,Otros Queso Panela,Otros,8339.69,8.696038
+C0095,Distribuidora Norteña 95,3,Creamer Coco,Creamer,7483.24,7.802993
+C0096,Distribuidora Sol 96,1,Yogurt Alto Proteina Fresa,Yogurt Alto Proteina,14462.08,8.378912
+C0096,Distribuidora Sol 96,2,Creamer Vainilla,Creamer,13491.22,7.816424
+C0096,Distribuidora Sol 96,3,Otros Queso Cottage,Otros,11787.12,6.829117
+C0097,Distribuidora Unidos 97,1,Queso Crema Cebollin,Queso Crema,10683.34,9.185646
+C0097,Distribuidora Unidos 97,2,Creamer Avellana,Creamer,7450.79,6.406266
+C0097,Distribuidora Unidos 97,3,Leche de Avena Original,Leche de Avena,7267.21,6.248422
+C0098,Distribuidora Del Valle 98,1,Creamer Coco,Creamer,14691.98,8.029734
+C0098,Distribuidora Del Valle 98,2,Creamer Natural,Creamer,11770.60,6.433087
+C0098,Distribuidora Del Valle 98,3,Creamer Vainilla,Creamer,10475.66,5.725352
+C0099,Distribuidora Sol 99,1,Creamer Natural,Creamer,16149.88,7.799585
+C0099,Distribuidora Sol 99,2,Leche de Avena Original,Leche de Avena,15872.59,7.665668
+C0099,Distribuidora Sol 99,3,Creamer Coco,Creamer,14293.36,6.902979
+C0100,Distribuidora Alianza 100,1,Creamer Vainilla,Creamer,16848.67,7.971599
+C0100,Distribuidora Alianza 100,2,Creamer Canela,Creamer,16139.11,7.635885
+C0100,Distribuidora Alianza 100,3,Creamer Caramelo,Creamer,15322.25,7.249405
+C0101,Distribuidora Alianza 101,1,Creamer Avellana,Creamer,8673.98,19.059139
+C0101,Distribuidora Alianza 101,2,Creamer Canela,Creamer,3192.70,7.015247
+C0101,Distribuidora Alianza 101,3,Creamer Natural,Creamer,3084.00,6.776403
+C0102,Distribuidora Premier 102,1,Leche de Avena Barista,Leche de Avena,8887.65,8.351794
+C0102,Distribuidora Premier 102,2,Yogurt Alto Proteina Vainilla,Yogurt Alto Proteina,8865.79,8.331252
+C0102,Distribuidora Premier 102,3,Creamer Coco,Creamer,7304.22,6.863832
+C0103,Distribuidora Mexicana 103,1,Otros Crema Acida,Otros,17340.44,9.478747
+C0103,Distribuidora Mexicana 103,2,Queso Crema Original,Queso Crema,15293.19,8.359665
+C0103,Distribuidora Mexicana 103,3,Leche de Avena Sin Azucar,Leche de Avena,11822.28,6.462373
+C0104,Distribuidora Mexicana 104,1,Creamer Vainilla,Creamer,15774.93,12.691794
+C0104,Distribuidora Mexicana 104,2,Creamer Natural,Creamer,12901.40,10.379882
+C0104,Distribuidora Mexicana 104,3,Leche de Avena Chocolate,Leche de Avena,11224.00,9.030322
+C0105,Distribuidora Mexicana 105,1,Creamer Vainilla,Creamer,11966.08,9.018445
+C0105,Distribuidora Mexicana 105,2,Leche de Avena Barista,Leche de Avena,11363.76,8.564496
+C0105,Distribuidora Mexicana 105,3,Otros Requeson,Otros,10425.13,7.857081
+C0106,Distribuidora Sol 106,1,Otros Queso Cottage,Otros,13212.66,12.870404
+C0106,Distribuidora Sol 106,2,Otros Kefir,Otros,10719.65,10.441972
+C0106,Distribuidora Sol 106,3,Otros Crema Acida,Otros,8091.30,7.881706
+C0107,Distribuidora Sol 107,1,Otros Kefir,Otros,14535.78,10.248799
+C0107,Distribuidora Sol 107,2,Creamer Vainilla,Creamer,11325.04,7.984990
+C0107,Distribuidora Sol 107,3,Creamer Canela,Creamer,7076.39,4.989378
+C0108,Distribuidora Central 108,1,Leche de Avena Chocolate,Leche de Avena,16589.44,13.409151
+C0108,Distribuidora Central 108,2,Yogurt Alto Proteina Natural,Yogurt Alto Proteina,10645.35,8.604577
+C0108,Distribuidora Central 108,3,Creamer Vainilla,Creamer,9773.19,7.899615
+C0109,Distribuidora Sol 109,1,Creamer Coco,Creamer,13949.62,10.350568
+C0109,Distribuidora Sol 109,2,Yogurt Alto Proteina Cafe,Yogurt Alto Proteina,7476.80,5.547759
+C0109,Distribuidora Sol 109,3,Creamer Canela,Creamer,7434.43,5.516320
+C0110,Distribuidora Premier 110,1,Otros Requeson,Otros,13625.71,8.268429
+C0110,Distribuidora Premier 110,2,Leche de Avena Original,Leche de Avena,13565.17,8.231692
+C0110,Distribuidora Premier 110,3,Otros Kefir,Otros,12267.26,7.444087
+C0111,Distribuidora Mexicana 111,1,Creamer Natural,Creamer,10742.60,6.975826
+C0111,Distribuidora Mexicana 111,2,Leche de Avena Sin Azucar,Leche de Avena,9480.64,6.156358
+C0111,Distribuidora Mexicana 111,3,Otros Kefir,Otros,8776.32,5.699000
+C0112,Distribuidora Alianza 112,1,Creamer Avellana,Creamer,10336.06,8.822756
+C0112,Distribuidora Alianza 112,2,Yogurt Alto Proteina Natural,Yogurt Alto Proteina,7244.16,6.183542
+C0112,Distribuidora Alianza 112,3,Yogurt Kids Vainilla,Yogurt Kids,6848.30,5.845640
+C0113,Distribuidora Alianza 113,1,Otros Queso Cottage,Otros,18111.63,11.336827
+C0113,Distribuidora Alianza 113,2,Leche de Avena Original,Leche de Avena,17114.72,10.712819
+C0113,Distribuidora Alianza 113,3,Yogurt Alto Proteina Fresa,Yogurt Alto Proteina,8600.65,5.383507
+C0114,Distribuidora Premier 114,1,Otros Kefir,Otros,15007.90,12.126465
+C0114,Distribuidora Premier 114,2,Creamer Avellana,Creamer,12772.04,10.319878
+C0114,Distribuidora Premier 114,3,Leche de Avena Sin Azucar,Leche de Avena,10194.32,8.237066
+C0115,Distribuidora Alianza 115,1,Creamer Natural,Creamer,19750.45,11.839897
+C0115,Distribuidora Alianza 115,2,Yogurt Alto Proteina Natural,Yogurt Alto Proteina,9990.91,5.989299
+C0115,Distribuidora Alianza 115,3,Queso Crema Original,Queso Crema,9687.98,5.807700
+C0116,Distribuidora Mexicana 116,1,Otros Queso Cottage,Otros,19884.75,11.370460
+C0116,Distribuidora Mexicana 116,2,Otros Kefir,Otros,11366.12,6.499353
+C0116,Distribuidora Mexicana 116,3,Creamer Avellana,Creamer,10902.21,6.234081
+C0117,Distribuidora Mexicana 117,1,Creamer Natural,Creamer,13533.62,9.161444
+C0117,Distribuidora Mexicana 117,2,Creamer Coco,Creamer,10061.21,6.810832
+C0117,Distribuidora Mexicana 117,3,Yogurt Alto Proteina Cafe,Yogurt Alto Proteina,8796.00,5.954361
+C0118,Distribuidora Norteña 118,1,Otros Queso Cottage,Otros,12322.58,6.997332
+C0118,Distribuidora Norteña 118,2,Otros Requeson,Otros,10085.53,5.727031
+C0118,Distribuidora Norteña 118,3,Leche de Avena Original,Leche de Avena,8736.37,4.960915
+C0119,Distribuidora Costa 119,1,Creamer Natural,Creamer,13065.88,7.698729
+C0119,Distribuidora Costa 119,2,Otros Queso Panela,Otros,12555.59,7.398054
+C0119,Distribuidora Costa 119,3,Queso Crema Cebollin,Queso Crema,11583.46,6.825252
+C0120,Distribuidora Central 120,1,Creamer Natural,Creamer,7406.74,7.567274
+C0120,Distribuidora Central 120,2,Queso Crema Original,Queso Crema,6449.72,6.589512
+C0120,Distribuidora Central 120,3,Creamer Vainilla,Creamer,5769.36,5.894406
+C0121,Distribuidora Central 121,1,Leche de Avena Barista,Leche de Avena,10815.71,8.295537
+C0121,Distribuidora Central 121,2,Creamer Vainilla,Creamer,8814.30,6.760476
+C0121,Distribuidora Central 121,3,Creamer Avellana,Creamer,7993.57,6.130985
+C0122,Distribuidora Sol 122,1,Otros Queso Cottage,Otros,15584.65,11.011236
+C0122,Distribuidora Sol 122,2,Creamer Natural,Creamer,14083.60,9.950678
+C0122,Distribuidora Sol 122,3,Yogurt Alto Proteina Fresa,Yogurt Alto Proteina,12689.56,8.965728
+C0123,Distribuidora Del Valle 123,1,Creamer Caramelo,Creamer,13883.96,8.658434
+C0123,Distribuidora Del Valle 123,2,Otros Queso Cottage,Otros,13346.53,8.323277
+C0123,Distribuidora Del Valle 123,3,Otros Requeson,Otros,12804.63,7.985333
+C0124,Distribuidora Unidos 124,1,Creamer Canela,Creamer,4187.00,17.918723
+C0124,Distribuidora Unidos 124,2,Otros Crema Acida,Otros,3853.00,16.489334
+C0124,Distribuidora Unidos 124,3,Creamer Avellana,Creamer,3531.92,15.115237
+C0125,Distribuidora Del Valle 125,1,Otros Queso Panela,Otros,10976.27,10.969875
+C0125,Distribuidora Del Valle 125,2,Otros Kefir,Otros,10964.52,10.958131
+C0125,Distribuidora Del Valle 125,3,Creamer Avellana,Creamer,8985.62,8.980384
+C0126,Distribuidora Sol 126,1,Creamer Coco,Creamer,12319.30,7.946949
+C0126,Distribuidora Sol 126,2,Creamer Avellana,Creamer,11694.29,7.543767
+C0126,Distribuidora Sol 126,3,Creamer Natural,Creamer,9344.52,6.027974
+C0127,Distribuidora Mexicana 127,1,Leche de Avena Barista,Leche de Avena,18158.25,10.553454
+C0127,Distribuidora Mexicana 127,2,Otros Crema Acida,Otros,17344.28,10.080380
+C0127,Distribuidora Mexicana 127,3,Leche de Avena Chocolate,Leche de Avena,11150.40,6.480538
+C0128,Distribuidora Del Valle 128,1,Creamer Canela,Creamer,12223.48,7.811031
+C0128,Distribuidora Del Valle 128,2,Otros Queso Cottage,Otros,9863.70,6.303088
+C0128,Distribuidora Del Valle 128,3,Leche de Avena Barista,Leche de Avena,9510.52,6.077399
+C0129,Distribuidora Sol 129,1,Leche de Avena Chocolate,Leche de Avena,6325.92,10.526831
+C0129,Distribuidora Sol 129,2,Yogurt Alto Proteina Fresa,Yogurt Alto Proteina,5300.72,8.820817
+C0129,Distribuidora Sol 129,3,Creamer Coco,Creamer,4659.42,7.753643
+C0130,Distribuidora Unidos 130,1,Creamer Vainilla,Creamer,19148.40,11.428320
+C0130,Distribuidora Unidos 130,2,Otros Requeson,Otros,14016.47,8.365435
+C0130,Distribuidora Unidos 130,3,Creamer Natural,Creamer,11770.60,7.025035
+C0131,Distribuidora Unidos 131,1,Queso Crema Original,Queso Crema,8100.45,8.927966
+C0131,Distribuidora Unidos 131,2,Otros Queso Panela,Otros,7896.60,8.703292
+C0131,Distribuidora Unidos 131,3,Leche de Avena Barista,Leche de Avena,6875.92,7.578342
+C0132,Distribuidora Sol 132,1,Queso Crema Cebollin,Queso Crema,6898.43,14.697631
+C0132,Distribuidora Sol 132,2,Creamer Natural,Creamer,6219.40,13.250906
+C0132,Distribuidora Sol 132,3,Leche de Avena Barista,Leche de Avena,4767.37,10.157245
+C0133,Distribuidora Del Valle 133,1,Leche de Avena Barista,Leche de Avena,10049.77,6.700927
+C0133,Distribuidora Del Valle 133,2,Creamer Natural,Creamer,9437.04,6.292375
+C0133,Distribuidora Del Valle 133,3,Otros Requeson,Otros,9243.52,6.163341
+C0134,Distribuidora Mexicana 134,1,Leche de Avena Barista,Leche de Avena,16040.88,13.626772
+C0134,Distribuidora Mexicana 134,2,Otros Mantequilla,Otros,7082.62,6.016705
+C0134,Distribuidora Mexicana 134,3,Otros Requeson,Otros,6652.36,5.651198
+C0135,Distribuidora Sol 135,1,Creamer Canela,Creamer,8246.29,14.657520
+C0135,Distribuidora Sol 135,2,Yogurt Griego Durazno,Yogurt Griego,5479.67,9.739940
+C0135,Distribuidora Sol 135,3,Leche de Avena Original,Leche de Avena,5274.13,9.374600
+C0136,Distribuidora La Paz 136,1,Otros Queso Cottage,Otros,11939.77,8.476544
+C0136,Distribuidora La Paz 136,2,Queso Crema Ajo,Queso Crema,10726.00,7.614838
+C0136,Distribuidora La Paz 136,3,Creamer Vainilla,Creamer,9230.98,6.553460
+C0137,Distribuidora Premier 137,1,Creamer Coco,Creamer,17420.33,12.994099
+C0137,Distribuidora Premier 137,2,Otros Queso Cottage,Otros,11942.12,8.907816
+C0137,Distribuidora Premier 137,3,Otros Queso Panela,Otros,11274.59,8.409895
+C0138,Distribuidora La Paz 138,1,Otros Requeson,Otros,18366.10,13.892962
+C0138,Distribuidora La Paz 138,2,Otros Kefir,Otros,14026.44,10.610244
+C0138,Distribuidora La Paz 138,3,Leche de Avena Original,Leche de Avena,8258.29,6.246950
+C0139,Distribuidora Mexicana 139,1,Creamer Coco,Creamer,21996.20,13.829814
+C0139,Distribuidora Mexicana 139,2,Leche de Avena Barista,Leche de Avena,14715.89,9.252417
+C0139,Distribuidora Mexicana 139,3,Creamer Vainilla,Creamer,10181.85,6.401701
+C0140,Distribuidora Central 140,1,Otros Mantequilla,Otros,11180.99,7.420695
+C0140,Distribuidora Central 140,2,Otros Queso Panela,Otros,10353.32,6.871380
+C0140,Distribuidora Central 140,3,Creamer Vainilla,Creamer,10304.72,6.839125
+C0141,Distribuidora Mexicana 141,1,Otros Queso Panela,Otros,11673.80,12.418877
+C0141,Distribuidora Mexicana 141,2,Creamer Canela,Creamer,6814.13,7.249040
+C0141,Distribuidora Mexicana 141,3,Creamer Coco,Creamer,6795.79,7.229529
+C0142,Distribuidora Costa 142,1,Creamer Coco,Creamer,10378.68,6.455485
+C0142,Distribuidora Costa 142,2,Creamer Caramelo,Creamer,10157.78,6.318086
+C0142,Distribuidora Costa 142,3,Creamer Natural,Creamer,9611.80,5.978489
+C0143,Distribuidora Central 143,1,Creamer Coco,Creamer,14279.03,10.391257
+C0143,Distribuidora Central 143,2,Creamer Canela,Creamer,8608.89,6.264935
+C0143,Distribuidora Central 143,3,Otros Queso Cottage,Otros,7644.37,5.563026
+C0144,Distribuidora Del Valle 144,1,Creamer Natural,Creamer,17578.80,12.341290
+C0144,Distribuidora Del Valle 144,2,Creamer Avellana,Creamer,11857.90,8.324902
+C0144,Distribuidora Del Valle 144,3,Otros Crema Acida,Otros,10370.35,7.280559
+C0145,Distribuidora Mexicana 145,1,Creamer Canela,Creamer,11904.21,10.021872
+C0145,Distribuidora Mexicana 145,2,Otros Mantequilla,Otros,10424.98,8.776543
+C0145,Distribuidora Mexicana 145,3,Leche de Avena Original,Leche de Avena,10172.78,8.564222
+C0146,Distribuidora Norteña 146,1,Leche de Avena Sin Azucar,Leche de Avena,21718.89,14.458569
+C0146,Distribuidora Norteña 146,2,Otros Requeson,Otros,12320.83,8.202149
+C0146,Distribuidora Norteña 146,3,Yogurt Alto Proteina Fresa,Yogurt Alto Proteina,8389.24,5.584834
+C0147,Distribuidora Unidos 147,1,Creamer Natural,Creamer,12803.74,6.964418
+C0147,Distribuidora Unidos 147,2,Leche de Avena Sin Azucar,Leche de Avena,10895.34,5.926370
+C0147,Distribuidora Unidos 147,3,Queso Crema Cebollin,Queso Crema,10782.95,5.865237
+C0148,Distribuidora Sol 148,1,Creamer Canela,Creamer,21400.21,10.434487
+C0148,Distribuidora Sol 148,2,Leche de Avena Sin Azucar,Leche de Avena,20688.48,10.087456
+C0148,Distribuidora Sol 148,3,Creamer Natural,Creamer,10871.10,5.300619
+C0149,Distribuidora Costa 149,1,Creamer Vainilla,Creamer,10651.95,12.923114
+C0149,Distribuidora Costa 149,2,Creamer Natural,Creamer,7098.34,8.611818
+C0149,Distribuidora Costa 149,3,Otros Kefir,Otros,5837.82,7.082535
+C0150,Distribuidora Alianza 150,1,Leche de Avena Barista,Leche de Avena,7745.32,7.530271
+C0150,Distribuidora Alianza 150,2,Leche de Avena Sin Azucar,Leche de Avena,7010.18,6.815542
+C0150,Distribuidora Alianza 150,3,Otros Queso Panela,Otros,6830.56,6.640910
+C0151,Distribuidora Alianza 151,1,Otros Mantequilla,Otros,12326.94,11.328375
+C0151,Distribuidora Alianza 151,2,Queso Crema Original,Queso Crema,9996.30,9.186533
+C0151,Distribuidora Alianza 151,3,Creamer Natural,Creamer,6861.90,6.306040
+C0152,Distribuidora Premier 152,1,Creamer Vainilla,Creamer,14329.92,9.360929
+C0152,Distribuidora Premier 152,2,Creamer Natural,Creamer,11924.80,7.789800
+C0152,Distribuidora Premier 152,3,Creamer Coco,Creamer,9328.40,6.093718
+C0153,Distribuidora Sol 153,1,Creamer Canela,Creamer,18791.32,12.230348
+C0153,Distribuidora Sol 153,2,Queso Crema Light,Queso Crema,13632.68,8.872842
+C0153,Distribuidora Sol 153,3,Creamer Avellana,Creamer,11933.21,7.766741
+C0154,Distribuidora Mexicana 154,1,Creamer Avellana,Creamer,14267.92,11.838069
+C0154,Distribuidora Mexicana 154,2,Queso Crema Cebollin,Queso Crema,12568.43,10.428005
+C0154,Distribuidora Mexicana 154,3,Leche de Avena Barista,Leche de Avena,9649.18,8.005908
+C0155,Distribuidora Mexicana 155,1,Creamer Vainilla,Creamer,24383.56,11.461780
+C0155,Distribuidora Mexicana 155,2,Otros Queso Cottage,Otros,18182.09,8.546706
+C0155,Distribuidora Mexicana 155,3,Creamer Avellana,Creamer,15060.00,7.079131
+C0156,Distribuidora Del Valle 156,1,Otros Kefir,Otros,13031.27,15.385563
+C0156,Distribuidora Del Valle 156,2,Otros Queso Cottage,Otros,10215.97,12.061637
+C0156,Distribuidora Del Valle 156,3,Leche de Avena Chocolate,Leche de Avena,8221.12,9.706388
+C0157,Distribuidora Alianza 157,1,Otros Queso Panela,Otros,10511.25,7.550726
+C0157,Distribuidora Alianza 157,2,Creamer Natural,Creamer,9997.30,7.181531
+C0157,Distribuidora Alianza 157,3,Creamer Caramelo,Creamer,6876.22,4.939513
+C0158,Distribuidora Norteña 158,1,Otros Queso Cottage,Otros,16242.22,7.060552
+C0158,Distribuidora Norteña 158,2,Leche de Avena Sin Azucar,Leche de Avena,14400.43,6.259919
+C0158,Distribuidora Norteña 158,3,Otros Kefir,Otros,13254.60,5.761823
+C0159,Distribuidora Norteña 159,1,Creamer Natural,Creamer,16910.60,8.732108
+C0159,Distribuidora Norteña 159,2,Otros Kefir,Otros,9485.48,4.898007
+C0159,Distribuidora Norteña 159,3,Leche de Avena Barista,Leche de Avena,9024.10,4.659765
+C0160,Distribuidora Mexicana 160,1,Otros Queso Cottage,Otros,17299.05,10.816601
+C0160,Distribuidora Mexicana 160,2,Queso Crema Light,Queso Crema,12102.76,7.567509
+C0160,Distribuidora Mexicana 160,3,Otros Requeson,Otros,11325.30,7.081386
+C0161,Distribuidora Sol 161,1,Creamer Coco,Creamer,14512.96,10.346844
+C0161,Distribuidora Sol 161,2,Creamer Canela,Creamer,13454.95,9.592548
+C0161,Distribuidora Sol 161,3,Yogurt Alto Proteina Fresa,Yogurt Alto Proteina,10221.50,7.287298
+C0162,Distribuidora Alianza 162,1,Otros Queso Panela,Otros,12726.69,7.326518
+C0162,Distribuidora Alianza 162,2,Yogurt Griego Natural,Yogurt Griego,11647.30,6.705134
+C0162,Distribuidora Alianza 162,3,Creamer Canela,Creamer,11356.89,6.537950
+C0163,Distribuidora Del Valle 163,1,Creamer Canela,Creamer,14353.47,8.385224
+C0163,Distribuidora Del Valle 163,2,Otros Crema Acida,Otros,13090.56,7.647439
+C0163,Distribuidora Del Valle 163,3,Otros Kefir,Otros,9518.78,5.560823
+C0164,Distribuidora Sol 164,1,Otros Queso Cottage,Otros,29107.31,13.417650
+C0164,Distribuidora Sol 164,2,Creamer Coco,Creamer,16880.86,7.781601
+C0164,Distribuidora Sol 164,3,Creamer Avellana,Creamer,15665.10,7.221170
+C0165,Distribuidora Unidos 165,1,Otros Queso Cottage,Otros,8924.30,8.502000
+C0165,Distribuidora Unidos 165,2,Queso Crema Light,Queso Crema,8899.49,8.478364
+C0165,Distribuidora Unidos 165,3,Otros Kefir,Otros,8345.34,7.950436
+C0166,Distribuidora Premier 166,1,Creamer Vainilla,Creamer,13958.65,7.310865
+C0166,Distribuidora Premier 166,2,Creamer Canela,Creamer,12542.75,6.569286
+C0166,Distribuidora Premier 166,3,Queso Crema Cebollin,Queso Crema,12182.92,6.380824
+C0167,Distribuidora Premier 167,1,Creamer Coco,Creamer,18291.59,9.825414
+C0167,Distribuidora Premier 167,2,Creamer Vainilla,Creamer,14158.97,7.605558
+C0167,Distribuidora Premier 167,3,Creamer Natural,Creamer,11405.66,6.126604
+C0168,Distribuidora Alianza 168,1,Creamer Vainilla,Creamer,17046.32,9.434537
+C0168,Distribuidora Alianza 168,2,Creamer Natural,Creamer,15067.91,8.339557
+C0168,Distribuidora Alianza 168,3,Creamer Avellana,Creamer,13784.88,7.629445
+C0169,Distribuidora Mexicana 169,1,Creamer Caramelo,Creamer,16507.95,12.174599
+C0169,Distribuidora Mexicana 169,2,Otros Requeson,Otros,10560.04,7.788020
+C0169,Distribuidora Mexicana 169,3,Yogurt Alto Proteina Natural,Yogurt Alto Proteina,6571.88,4.846756
+C0170,Distribuidora La Paz 170,1,Otros Requeson,Otros,19319.76,11.204582
+C0170,Distribuidora La Paz 170,2,Otros Queso Panela,Otros,15889.71,9.215309
+C0170,Distribuidora La Paz 170,3,Leche de Avena Barista,Leche de Avena,10547.19,6.116890
+C0171,Distribuidora Mexicana 171,1,Creamer Coco,Creamer,8402.24,7.303451
+C0171,Distribuidora Mexicana 171,2,Yogurt Alto Proteina Vainilla,Yogurt Alto Proteina,8322.33,7.233991
+C0171,Distribuidora Mexicana 171,3,Leche de Avena Chocolate,Leche de Avena,8202.72,7.130023
+C0172,Distribuidora Unidos 172,1,Creamer Vainilla,Creamer,9882.70,8.717601
+C0172,Distribuidora Unidos 172,2,Creamer Natural,Creamer,8943.60,7.889214
+C0172,Distribuidora Unidos 172,3,Queso Crema Cebollin,Queso Crema,8890.49,7.842366
+C0173,Distribuidora Mexicana 173,1,Otros Requeson,Otros,14607.28,7.848273
+C0173,Distribuidora Mexicana 173,2,Creamer Vainilla,Creamer,12102.30,6.502385
+C0173,Distribuidora Mexicana 173,3,Otros Mantequilla,Otros,10639.85,5.716632
+C0174,Distribuidora Central 174,1,Creamer Natural,Creamer,10886.52,6.185951
+C0174,Distribuidora Central 174,2,Otros Requeson,Otros,10506.55,5.970044
+C0174,Distribuidora Central 174,3,Yogurt Alto Proteina Cafe,Yogurt Alto Proteina,9834.88,5.588387
+C0175,Distribuidora Premier 175,1,Otros Requeson,Otros,12206.85,10.233261
+C0175,Distribuidora Premier 175,2,Creamer Avellana,Creamer,11878.68,9.958149
+C0175,Distribuidora Premier 175,3,Leche de Avena Barista,Leche de Avena,7472.40,6.264271
+C0176,Distribuidora Del Valle 176,1,Creamer Coco,Creamer,8855.77,9.945242
+C0176,Distribuidora Del Valle 176,2,Queso Crema Ajo,Queso Crema,6864.95,7.709504
+C0176,Distribuidora Del Valle 176,3,Creamer Vainilla,Creamer,6410.40,7.199033
+C0177,Distribuidora Central 177,1,Creamer Natural,Creamer,23456.39,12.022977
+C0177,Distribuidora Central 177,2,Leche de Avena Barista,Leche de Avena,20172.16,10.339589
+C0177,Distribuidora Central 177,3,Queso Crema Original,Queso Crema,10398.45,5.329905
+C0178,Distribuidora Del Valle 178,1,Otros Requeson,Otros,12602.27,7.402694
+C0178,Distribuidora Del Valle 178,2,Otros Crema Acida,Otros,9305.00,5.465846
+C0178,Distribuidora Del Valle 178,3,Creamer Coco,Creamer,7767.30,4.562586
+C0179,Distribuidora Alianza 179,1,Otros Queso Panela,Otros,13299.19,8.371390
+C0179,Distribuidora Alianza 179,2,Leche de Avena Sin Azucar,Leche de Avena,9877.60,6.217615
+C0179,Distribuidora Alianza 179,3,Leche de Avena Chocolate,Leche de Avena,9523.84,5.994935
+C0180,Distribuidora Del Valle 180,1,Queso Crema Original,Queso Crema,8129.17,8.065293
+C0180,Distribuidora Del Valle 180,2,Otros Kefir,Otros,7244.38,7.187455
+C0180,Distribuidora Del Valle 180,3,Yogurt Griego Mango,Yogurt Griego,6923.03,6.868630
+C0181,Distribuidora La Paz 181,1,Creamer Canela,Creamer,13167.61,10.985599
+C0181,Distribuidora La Paz 181,2,Creamer Natural,Creamer,8892.20,7.418669
+C0181,Distribuidora La Paz 181,3,Creamer Vainilla,Creamer,8600.62,7.175407
+C0182,Distribuidora Unidos 182,1,Otros Queso Panela,Otros,18195.08,11.963501
+C0182,Distribuidora Unidos 182,2,Creamer Caramelo,Creamer,14447.58,9.499471
+C0182,Distribuidora Unidos 182,3,Yogurt Alto Proteina Natural,Yogurt Alto Proteina,10921.12,7.180778
+C0183,Distribuidora Unidos 183,1,Otros Queso Cottage,Otros,22047.72,11.888961
+C0183,Distribuidora Unidos 183,2,Creamer Natural,Creamer,11308.00,6.097700
+C0183,Distribuidora Unidos 183,3,Creamer Avellana,Creamer,10959.34,5.909689
+C0184,Distribuidora La Paz 184,1,Creamer Coco,Creamer,14990.36,9.807843
+C0184,Distribuidora La Paz 184,2,Otros Queso Panela,Otros,12406.44,8.117244
+C0184,Distribuidora La Paz 184,3,Queso Crema Original,Queso Crema,10231.84,6.694454
+C0185,Distribuidora Unidos 185,1,Creamer Caramelo,Creamer,18770.80,10.219226
+C0185,Distribuidora Unidos 185,2,Creamer Canela,Creamer,17993.14,9.795851
+C0185,Distribuidora Unidos 185,3,Otros Requeson,Otros,12127.77,6.602618
+C0186,Distribuidora Premier 186,1,Leche de Avena Sin Azucar,Leche de Avena,8572.69,7.433440
+C0186,Distribuidora Premier 186,2,Leche de Avena Barista,Leche de Avena,8192.12,7.103445
+C0186,Distribuidora Premier 186,3,Yogurt Alto Proteina Natural,Yogurt Alto Proteina,5817.28,5.044205
+C0187,Distribuidora Norteña 187,1,Leche de Avena Sin Azucar,Leche de Avena,16522.49,7.925657
+C0187,Distribuidora Norteña 187,2,Creamer Canela,Creamer,14998.85,7.194783
+C0187,Distribuidora Norteña 187,3,Otros Mantequilla,Otros,11407.79,5.472191
+C0188,Distribuidora Unidos 188,1,Creamer Avellana,Creamer,4983.64,19.193536
+C0188,Distribuidora Unidos 188,2,Queso Crema Cebollin,Queso Crema,4094.79,15.770300
+C0188,Distribuidora Unidos 188,3,Leche de Avena Sin Azucar,Leche de Avena,3931.61,15.141844
+C0189,Distribuidora La Paz 189,1,Otros Requeson,Otros,22362.17,12.940679
+C0189,Distribuidora La Paz 189,2,Creamer Canela,Creamer,19190.41,11.105225
+C0189,Distribuidora La Paz 189,3,Creamer Avellana,Creamer,12753.87,7.380488
+C0190,Distribuidora La Paz 190,1,Queso Crema Original,Queso Crema,14408.46,7.778075
+C0190,Distribuidora La Paz 190,2,Yogurt Alto Proteina Vainilla,Yogurt Alto Proteina,12987.00,7.010733
+C0190,Distribuidora La Paz 190,3,Otros Requeson,Otros,11483.47,6.199087
+C0191,Distribuidora Premier 191,1,Creamer Vainilla,Creamer,14476.82,10.367851
+C0191,Distribuidora Premier 191,2,Leche de Avena Chocolate,Leche de Avena,11483.44,8.224085
+C0191,Distribuidora Premier 191,3,Leche de Avena Barista,Leche de Avena,11473.82,8.217195
+C0192,Distribuidora Sol 192,1,Otros Requeson,Otros,14309.55,7.806676
+C0192,Distribuidora Sol 192,2,Creamer Canela,Creamer,9441.27,5.150752
+C0192,Distribuidora Sol 192,3,Creamer Avellana,Creamer,8933.68,4.873832
+C0193,Distribuidora Del Valle 193,1,Yogurt Alto Proteina Vainilla,Yogurt Alto Proteina,18084.56,8.820716
+C0193,Distribuidora Del Valle 193,2,Leche de Avena Barista,Leche de Avena,14053.39,6.854519
+C0193,Distribuidora Del Valle 193,3,Otros Crema Acida,Otros,13485.50,6.577532
+C0194,Distribuidora Norteña 194,1,Queso Crema Cebollin,Queso Crema,14505.15,8.289233
+C0194,Distribuidora Norteña 194,2,Otros Queso Panela,Otros,11388.65,6.508252
+C0194,Distribuidora Norteña 194,3,Creamer Avellana,Creamer,11289.16,6.451397
+C0195,Distribuidora Mexicana 195,1,Creamer Natural,Creamer,8378.20,13.002884
+C0195,Distribuidora Mexicana 195,2,Queso Crema Ajo,Queso Crema,6835.50,10.608628
+C0195,Distribuidora Mexicana 195,3,Yogurt Griego Fresa,Yogurt Griego,4651.54,7.219144
+C0196,Distribuidora La Paz 196,1,Creamer Vainilla,Creamer,10112.41,7.618615
+C0196,Distribuidora La Paz 196,2,Leche de Avena Barista,Leche de Avena,9156.16,6.898183
+C0196,Distribuidora La Paz 196,3,Otros Kefir,Otros,8737.14,6.582497
+C0197,Distribuidora Central 197,1,Leche de Avena Original,Leche de Avena,10157.50,10.508444
+C0197,Distribuidora Central 197,2,Creamer Avellana,Creamer,7983.18,8.259001
+C0197,Distribuidora Central 197,3,Queso Crema Light,Queso Crema,6625.10,6.853999
+C0198,Distribuidora Del Valle 198,1,Creamer Caramelo,Creamer,16950.50,9.653160
+C0198,Distribuidora Del Valle 198,2,Creamer Natural,Creamer,11662.66,6.641782
+C0198,Distribuidora Del Valle 198,3,Leche de Avena Chocolate,Leche de Avena,11209.28,6.383586
+C0199,Distribuidora Unidos 199,1,Otros Mantequilla,Otros,12436.37,7.963167
+C0199,Distribuidora Unidos 199,2,Queso Crema Original,Queso Crema,10762.30,6.891238
+C0199,Distribuidora Unidos 199,3,Otros Kefir,Otros,9865.52,6.317019
+C0200,Distribuidora Alianza 200,1,Queso Crema Original,Queso Crema,13219.24,8.411476
+C0200,Distribuidora Alianza 200,2,Creamer Avellana,Creamer,12387.69,7.882357
+C0200,Distribuidora Alianza 200,3,Creamer Canela,Creamer,12127.70,7.716923
